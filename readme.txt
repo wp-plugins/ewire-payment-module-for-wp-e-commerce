@@ -6,6 +6,8 @@ Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 1.0
 
+Ewire Payment Module for Wordpress e-Commerce
+
 == Description ==
 
 Release notes: ewirepayment.codeplex.com
@@ -26,15 +28,20 @@ problem resolving goto: ewirepayment.codeplex.com.
 3. Goto your Wordpress - WP E Commerce backend and find Ewire under "Payment Options"
 4. Mark it and "Update"
 5. Choose Ewire from the list at the right and configure it with the information found at your Ewire account under "Business".
-
 You're good to go!
+
 == Frequently Asked Questions ==
 = Ask in a forum = 
 Goto ewirepayment.codeplex.com
-= invalid paramters =
+= Invalid paramters =
 Check language, currency that it is correct
 
-== Screenshots ==
+== screenshots ==
+1.Backend
+2.Backend
+3.Testmode
+4.Frontend
+5.Frontend
 
 
 Good luck,
