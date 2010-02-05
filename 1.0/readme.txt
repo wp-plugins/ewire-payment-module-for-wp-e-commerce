@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Ewire ===
 Contributors: KristianPress
 Donate link: http://ewirepayment.codeplex.com
 Tags: netpayments,accept ewire,ewire payments
@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 1.0
 
-Ewire Payment Module for Wordpress e-Commerce
+
 
 == Description ==
 Release notes: ewirepayment.codeplex.com
