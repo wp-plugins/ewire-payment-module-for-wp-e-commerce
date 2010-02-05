@@ -8,8 +8,7 @@ Stable tag: 1.0
 
 Ewire Payment Module for Wordpress e-Commerce
 
-== description ==
-
+== Description ==
 Release notes: ewirepayment.codeplex.com
 
 ** Version 1.0B **
@@ -21,6 +20,9 @@ completed in your ewire account on ewire.dk.
 
 Ewire can not be held responsible for any damages or errors caused by the package,
 problem resolving goto: ewirepayment.codeplex.com.
+
+Good Luck,
+The Ewire Module Team
 
 == Installation ==
 1. Open the folder "Wordpress" folder.
@@ -36,11 +38,15 @@ Goto ewirepayment.codeplex.com
 = Invalid paramters =
 Check language, currency that it is correct
 
-== screenshots ==
-1.Backend
-2.Backend
-3.Testmode
-4.Frontend
-5.Frontend
+== Screenshots ==
+1.`/tags/1.0/screenshot-1.png`
+
+2.`/tags/1.0/screenshot-2.png`
+
+3.`/tags/1.0/screenshot-3.png`
+
+4.`/tags/1.0/screenshot-4.png`
+
+5.`/tags/1.0/screenshot-5.png`
 
 
