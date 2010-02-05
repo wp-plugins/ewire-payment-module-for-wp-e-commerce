@@ -8,7 +8,7 @@ Stable tag: 1.0
 
 Ewire Payment Module for Wordpress e-Commerce
 
-== Description ==
+== description ==
 
 Release notes: ewirepayment.codeplex.com
 
