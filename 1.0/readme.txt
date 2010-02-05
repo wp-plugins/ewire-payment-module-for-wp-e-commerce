@@ -39,10 +39,10 @@ Goto ewirepayment.codeplex.com
 Check language, currency that it is correct
 
 == Screenshots ==
-1.`/tags/1.0/screenshot-1.png`
-2.`/tags/1.0/screenshot-2.png`
-3.`/tags/1.0/screenshot-3.png`
-4.`/tags/1.0/screenshot-4.png`
-5./tags/1.0/screenshot-5.png
+1. Backend Picture
+2. Backend Picture
+3. Testmode Picture
+4. Frontend Picture
+5. Frontend Picture
 
 
