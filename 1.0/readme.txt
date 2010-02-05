@@ -44,6 +44,3 @@ Check language, currency that it is correct
 5.Frontend
 
 
-Good luck,
-
-Ewire
